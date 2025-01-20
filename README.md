@@ -18,7 +18,7 @@ Good: Minimal air pollution, safe for sensitive groups.
 
 Moderate: Acceptable air quality with slight concerns for sensitive populations.
 
-Unhealthy: Air pollution may pose health risks, especially to vulnerable groups.
+Poor: Air pollution may pose health risks, especially to vulnerable groups.
 
 Hazardous: Severe air pollution requiring immediate attention and action.
 
